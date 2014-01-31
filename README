@@ -1,0 +1,7 @@
+This is for loading data from the Lisp meeting Google calendar into
+Lisp, so it can be written out in other formats, tweeted, etc.
+
+The current calendar Atom XML URL is:
+
+  http://www.google.com/calendar/feeds/pm55j8kg30dnm54ib2if9fuocc%40group.calendar.google.com/public/basic
+
